@@ -20,7 +20,7 @@ For this project, I was interested in using the most recent Stack Overflow surve
 
 ## Results<a name="results"></a>
 
-The main results of the code can be found at the post available [here](https://medium.com/).
+The main results of the code can be found at the post available [here](https://medium.com/@jordan.i.wiebe/2020-stack-overflow-survey-data-analysis-7c1f57ad5057).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
